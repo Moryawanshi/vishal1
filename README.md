@@ -2,4 +2,4 @@
 <br>
 this is my first demo
 <br>
-authr : vishal kumar
+Author : vishal kumar
